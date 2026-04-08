@@ -1,0 +1,13 @@
+Hacer: 
+- Debemos de hacer que nos cargue los datos de la base de datos de IndexedDB 
+  en el html, como especie de tabla, debe der tener todos sus campos 
+
+- El Ingrese nombre es un input, por ende el boton de añadir se agrega a la tabla  
+  y se actualiza su contenido visible en el html también y en la base de datos IndexedDB
+
+- Colocar opción de eleiminar en cada registro, copiar datos y modificar, ese modificar 
+  debe permitir escribir encima de los datos visibles o sea "contenteditable" y poder 
+  guardarlo
+
+- Debemos de colocar la opción de buscar por nombre o los campos que hay (en un boton)
+
